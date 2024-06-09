@@ -1,8 +1,15 @@
 # MagicSwordLand
 
-This organization houses all the custom plugin source code for MagicSwordLand (MSLand). Since we decided to close the server two years ago, I thought it would be beneficial to make the source code public for documentation purposes. Most of these plugins were written by me single-handedly and currently lack documentation or comments. I hope to revisit and rewrite them with proper documentation in the future.
+This organization houses all the custom plugin source code for MagicSwordLand (MSLand). Since we decided to close the server two years ago, I thought it would be beneficial to make the source codes public for documentation purposes. These plugins were written by me single-handedly and currently lack documentation or comments. I hope to revisit and rewrite them with proper documentation in the future.
 
-Though without comments and documents, it's all well written, organized and self-documenting code, with correct knowledge of how a spigot plugin works and what the plugin does, any experienced java developer should be able to understand most of the codes.
+
+
+## Plugins
+| Plugin Name | Description | Link |
+| ----------- | ----------- | ---- |
+| Scripted Quests | A highly customizable quest system. | https://github.com/MagicSwordLand/ScriptedQuest/tree/main |
+| Heroes Skills | A skill system for any mmorpg server. | https://github.com/MagicSwordLand/HeroesSkills/tree/main |
+| Fantasy Inventory | A seperate inventory for rpg items like accessory | https://github.com/MagicSwordLand/FantasyInventory/tree/main |
 
 
 ## Server Trailer
