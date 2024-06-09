@@ -7,6 +7,7 @@ This organization houses all the custom plugin source code for MagicSwordLand (M
 | ----------- | ----------- | ---- |
 | Scripted Quests | A highly customizable quest system. | https://github.com/MagicSwordLand/ScriptedQuest/tree/main |
 | Heroes Skills | A skill system for any mmorpg server. | https://github.com/MagicSwordLand/HeroesSkills/tree/main |
+| Fantasy Inventory | A seperated inventory for rpg items like accessory | https://github.com/MagicSwordLand/FantasyInventory/tree/main |
 
 
 ## Server Trailer
