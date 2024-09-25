@@ -10,7 +10,8 @@ This organization houses all the custom plugin source code for MagicSwordLand (M
 | Scripted Quests | A highly customizable quest system. | https://github.com/MagicSwordLand/ScriptedQuest/tree/main |
 | Heroes Skills | A skill system for any mmorpg server. | https://github.com/MagicSwordLand/HeroesSkills/tree/main |
 | Fantasy Inventory | A seperate inventory for rpg items like accessory | https://github.com/MagicSwordLand/FantasyInventory/tree/main |
-
+| PLayer Data Sync | Sync and stores players' data between servers , and handle data races. | [https://github.com/MagicSwordLand/FantasyInventory/tree/main](https://github.com/MagicSwordLand/PlayerDataSync) |
+| RPGCrafting | A highly configurable crafting system. | [https://github.com/MagicSwordLand/FantasyInventory/tree/main](https://github.com/MagicSwordLand/RPGCrafting/tree/main) |
 
 ## Server Trailer
 [![Server Trailer!](https://img.youtube.com/vi/AuBs1ZOexoQ/maxresdefault.jpg)](https://youtu.be/AuBs1ZOexoQ)
