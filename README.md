@@ -1,6 +1,6 @@
 # MagicSwordLand
 
-This organization houses all the custom plugin source code for MagicSwordLand (MSLand). Since we decided to close the server two years ago, I thought it would be beneficial to make the source codes public for documentation purposes. These plugins were written by me single-handedly and currently lack documentation or comments. I hope to revisit and add proper comments in the future.
+This organization houses part of the custom plugin source code for MagicSwordLand (MSLand). Since we decided to close the server two years ago, I thought it would be beneficial to make the source codes public for documentation purposes. These plugins were written by me single-handedly and currently lack documentation or comments. I hope to revisit and add proper comments in the future.
 
 
 
